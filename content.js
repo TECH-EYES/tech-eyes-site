@@ -1,6 +1,6 @@
 /* Contenu du site : ajoutez ou modifiez les objets ci-dessous. */
 window.SITE_CONTENT = {
-  email: "contact@tech-eyes.example", // Remplacez par votre adresse e-mail.
+  email: "bh0788916@gmail.com", // Remplacez par votre adresse e-mail.
   whatsapp: "", // Optionnel : indicatif international et numéro, sans + ni espaces, ex. 2250700000000.
   youtubeChannel: "https://www.youtube.com/", // Remplacez par le lien de votre chaîne.
   courses: [
